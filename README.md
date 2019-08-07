@@ -1,1 +1,1 @@
-# Image-Classification-using-Pre-trained-models-PyTorch-
+# Image-Classification-using-Pre-trained-models-PyTorch
